@@ -13,7 +13,7 @@ def multiplicar(x, y):
 # Función para dividir dos números
 def dividir(x, y):
     if y == 0:
-        return "Error: División por cero no permitida"
+        return "División por cero no permitida"
     return x / y
 
 # Función principal de la calculadora
