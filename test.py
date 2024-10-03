@@ -1,2 +1,2 @@
 def prueba():
-    return "prueba3"
+    return "prueba6"
