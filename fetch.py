@@ -1,2 +1,2 @@
 def fetch():
-  return "fetch prueba"
+  return "fetch prueba NO FAST"
