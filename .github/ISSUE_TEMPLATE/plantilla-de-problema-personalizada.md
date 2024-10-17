@@ -1,40 +1,40 @@
---- 
-nombre: 🐞 Error 
-acerca de: Informar un error/problema 
-título: '[BUG] <title>' 
-etiquetas: Error, Necesita clasificación 
-asignatarios: '' 
+---
+name: 🐞 Bug
+about: File a bug/issue
+title: '[BUG] <title>'
+labels: Bug, Needs Triage
+assignees: ''
 
---- 
+---
 
-<!-- 
-Nota: Busque para ver si ya existe un problema para el error que encontró. 
---> 
+<!--
+Note: Please search to see if an issue already exists for the bug you encountered.
+-->
 
-### Comportamiento actual: 
-<!-- Una descripción concisa de lo que está experimentando. --> 
+### Current Behavior:
+<!-- A concise description of what you're experiencing. -->
 
-### Comportamiento esperado: 
-<!-- Una descripción concisa de lo que esperaba que sucediera. --> 
+### Expected Behavior:
+<!-- A concise description of what you expected to happen. -->
 
-### Pasos para reproducir: 
-<!-- 
-Ejemplo: pasos para reproducir el comportamiento: 
-1. En este entorno... 
-1. Con esta configuración... 
-1. Ejecute '...' 
-1. Vea el error... 
---> 
+### Steps To Reproduce:
+<!--
+Example: steps to reproduce the behavior:
+1. In this environment...
+1. With this config...
+1. Run '...'
+1. See error...
+-->
 
-### Entorno: 
-<!-- 
-Ejemplo: 
-- SO: Ubuntu 20.04 
-- Nodo: 13.14.0 
-- npm: 7.6.3 
---> 
+### Environment:
+<!--
+Example:
+- OS: Ubuntu 20.04
+- Node: 13.14.0
+- npm: 7.6.3
+-->
 
-### Algo más: 
-<!-- ¿ 
-Enlaces? ¿Referencias? ¡Cualquier cosa que nos brinde más contexto sobre el problema que estás enfrentando! 
+### Anything else:
+<!--
+Links? References? Anything that will give us more context about the issue that you are encountering!
 -->
